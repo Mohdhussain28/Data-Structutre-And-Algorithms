@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "sorting",
         "arrays",
-        "sorting"
+        "ques"
     ]
 }
